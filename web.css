@@ -1,0 +1,159 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flexible-all{
+    display: flex;
+    
+    
+}
+.flax{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.flexi{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+    
+}
+.stay-on{
+    width: 40%;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.stay-on img{
+    width: 80%;
+    
+}
+.down{
+    margin-top: 50px;
+}
+#line{
+    border-left: 5px solid;
+    border-image: linear-gradient(orangered, orangered);
+    border-image-slice: 1;
+    padding-left: 2%;
+}
+h1{
+    font-size: 50px;
+    font-weight: 800px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h2{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800px;
+}
+.dot{
+    color: tomato;
+}
+.link-now{
+    background-color: rgb(87, 33, 112);
+    padding: 10px 30px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    
+
+}
+.center{
+    text-align: center;
+}
+.twenty{
+    color: rgb(211, 33, 13);
+}
+.miss-you{
+    width: 30%;
+    height: 20%;
+    box-shadow: 0px 0px;
+    margin-right: 70px;
+    padding: 1% 2%;
+    text-align: justify;
+    border-radius: 5%;
+    background-color: moccasin;
+    
+}
+.miss-you img{
+    width: 53%;
+}
+.miss-jan{
+    width: 30%;
+    height: 20%;
+    box-shadow: 0px 0px;
+    margin-right: 70px;
+    padding: 1% 2%;
+    text-align: justify;
+    border-radius: 5%;
+    background-color: lightcoral;
+}
+.miss-jan img{
+    width: 50%;
+}
+.miss-gon{
+    width: 30%;
+    height: 20%;
+    box-shadow: 0px 0px;
+    margin-right: 70px;
+    padding: 1% 2%;
+    text-align: justify;
+    border-radius: 5%;
+    background-color: hotpink;
+}
+.miss-gon img{
+    width: 50%;
+}
+.person{
+    width: 40%;
+    margin-top: 100px;
+    margin-left: ;
+    
+    
+}
+.person img{
+    width: 70%;
+    margin-left: 150px;
+}
+.person-web{
+    width: 40%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.dom{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: left;
+}
+.width{
+    width: 60%;
+}
+.width img{
+    width: 60%;
+    margin-left: 50px;
+    
+}
+.justify{
+    text-align: justify;
+}
+.well{
+    color: coral;
+}
+.bob{
+    color: white;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.back{
+    background-color: black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 100px;
+}
+.small{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    
+}
